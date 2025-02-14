@@ -1,0 +1,29 @@
+[{
+    "_id": {
+      "$oid": "5f2b648c7e9f425788234b9f"
+    },
+    "user": "mail@gmail.com",
+    "pass": "12345"
+  },
+  {
+    "_id": {
+      "$oid": "4e4d5c1d4a5e6b7f8c9a0b1c"
+    },
+    "user": "maria@gmail.com",
+    "pass": "67890"
+  },
+  {
+    "_id": {
+      "$oid": "7a8b9c0d1e2f3a4b5c6d7e8f"
+    },
+    "user": "manolo@gmail.com",
+    "pass": "43210"
+  },
+  {
+    "_id": {
+      "$oid": "9b0c1d2e3f4a5b6c7d8e9f0a"
+    },
+    "user": "pepe@gmail.com",
+    "pass": "56789"
+  }
+]
